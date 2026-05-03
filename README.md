@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 <!--
 **Flaviodev1206/Flaviodev1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 -->
